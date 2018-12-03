@@ -1,7 +1,7 @@
 # Electric-Fields-for-Charge-Distributions
 Plots the electric fields for various charge distributions. 
 
-Charge multiplier refers to the number of charges that will make up these distributions. The equation is 2^(input of the Charge multiplier). For example, if you input 2 you will have 4 charges that make up each part of these seperate distributions.
+Charge multiplier refers to the number of charges that will make up these distributions. The equation is 2^(input of the Charge multiplier). For example, if you input 2 you will have 4 charges for each seperate distribution within the modulos.
 
 Modulo 1 creates: A Multipole with charges of alternating sign, equally spaced around a circle.
 
